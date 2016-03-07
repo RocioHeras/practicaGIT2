@@ -1,0 +1,22 @@
+body {
+	background-image:url("../imagen/test.jpg");
+	text-align:center;
+			  
+	 }
+         h1{
+		    color:orange;
+			text-align:center;
+		    }
+		  #img{
+		     background-color:#00FA9A;
+		     text-align:center;
+			 width: 50%;
+			 margin:150px 100px;
+		    }
+		  #videoCansion{
+		     background-color:#AFEEEE;
+			 text-align:center;
+			 width:50%;
+			 float:right;
+			 margin:150px 0 0 ;
+		    }

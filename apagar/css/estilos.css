@@ -1,0 +1,46 @@
+body{
+	background-image: url('../imagenes/nature-landscape-bamboo-leaves-water-power-white-background-green-background.jpg');
+}
+
+#titulo{
+	text-align: center;
+}
+
+#youtube{
+	float: align;
+	text-align: center;
+	height:100px;
+	margin: 30px 0 0;
+}
+
+#tumblr{
+	float: align;
+	text-align: center;
+	height:200px;
+	margin: 30px 0 0;
+}
+
+#facebook{
+	float: align;
+	text-align: center;
+	height:150px;
+	margin: 30px 0 0;
+}
+
+#FaceBook{
+	float: align;
+	text-align: center;
+	margin: 100px;
+}
+
+#YouTube{
+	float: align;
+	text-align: center;
+	margin: 100px;
+}
+
+#TumBlr{
+	float: align;
+	text-align: center;
+	margin: 30px 0 0;
+}
