@@ -2,17 +2,16 @@ Sistema de Control Escolar
 ---------------------------------------------
 Este sistema permite gestionar las actividades de control escolar, tales como captura de alumnos, calificaciones y boletas.
 
-Requisitos funcionales
--------------------------------------------
-1- El sistema debe permitir el registro de alumnos
-2- El sistema debe mostrar reportes de alumnos dados de baja
-3- El sistema debe permitir la captura de calificaciones
-Requisitos no funcionales
---------------------------------------------
-1- El sistema debe de ser facil de usar
-2- El sistema debe manejar datos de manera segura
-3- El sistema debe de estar disponible todo el tiempo.
 
-Conclusiones 
---------------------------------------------
-El sistema esta implementado.
+
+
+
+
+
+Informacion de la Rama prueba
+---------------------------------------------
+Esta es una nueva rama del proyecto
+
+otro commit de la rama prueba
+--------------------------------------------------------
+Este commit solo se muestra en la rama prueba, posteriormente los vamos a fusionar

@@ -1,0 +1,27 @@
+commit 007aae60f9269e100f8fb96a9ac0f63402dd6508
+Author: ROCIO <rocio_gpe_95@hotmail.com>
+Date:   Tue Mar 8 10:21:18 2016 -0700
+
+   
+ conclusiones
+
+commit 310a6dcfca8bd695f33acac64e4cd8d6479571dd
+Author: ROCIO <rocio_gpe_95@hotmail.com>
+Date:   Mon Mar 7 11:04:07 2016 -0700
+
+   
+ Requisitos funcionales
+
+commit f7bae5755466f9f903f29863adc4f1479843e950
+Author: ROCIO <rocio_gpe_95@hotmail.com>
+Date:   Mon Mar 7 11:01:10 2016 -0700
+
+    
+----Titulo y descripcion del proyecto
+
+commit a77bf89d61297dbe33872a086c279e7f6a353398
+Author: ROCIO <rocio_gpe_95@hotmail.com>
+Date:   Mon Mar 7 10:57:15 2016 -0700
+
+    
+Proyecto en blanco
